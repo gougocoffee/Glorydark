@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Info](https://github-readme-stats.vercel.app/api?username=glorydark&show_icons=true&theme=dracula)
 - 🔭 I’m currently studied in a middle school in China
 - 🌱 I’m currently learning Java、PHP、C++、Python
 - 👯 I’m looking to collaborate on Java
