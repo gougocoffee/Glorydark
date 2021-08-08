@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Info](https://github-readme-stats.vercel.app/api?username=glorydark&show_icons=true&theme=dracula)
-- A common student. Cuz I‘m so simple that inspired me to move forward!
+- A common student. It's my simple character that inspired me to move forward!
 - 🔭 I’m currently studied in a common middle school in China.
 - 🌱 I’m currently learning Java、PHP、C++(Also C、Python is start studying this summer)
 - 👯 I’m looking to collaborate on Nukkit Plug-in Development(Please wait after my National Matriculation Entrance Test on June,2022)
