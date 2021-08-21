@@ -6,4 +6,6 @@
 - 🔭 I’m currently studied in a common middle school in China.
 - 🌱 I’m currently learning Java mostly
 - 📫 How to reach me: 1083215364@qq.com
+- ✨ I‘m currently studying English and working at the newsgroup in Minebbs.(Well I'm not still prepared to do some impossible tasks you know. That means "整活" in Chinese.)
 - 😄 Pronouns: Glorydark / BizarreDark / Dark
+- * As the NMET - the largest exams for the middle school students - is coming,my plugin will be discontinued until the next summer holiday in the following year. Sorry for the inconvenience!
